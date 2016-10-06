@@ -1,0 +1,1 @@
+The Palindrome:it refers to both positive and negative forms are the same word,such as 'madam'.
